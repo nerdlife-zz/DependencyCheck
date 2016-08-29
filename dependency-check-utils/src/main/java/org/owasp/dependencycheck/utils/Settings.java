@@ -268,6 +268,7 @@ public final class Settings {
          * The properties key for whether the .NET Nuspec analyzer is enabled.
          */
         public static final String ANALYZER_NUSPEC_ENABLED = "analyzer.nuspec.enabled";
+        public static final String ANALYZER_POM_ENABLED = "analyzer.pom.enabled";
         /**
          * The properties key for whether the Nexus analyzer is enabled.
          */
